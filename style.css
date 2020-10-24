@@ -1,0 +1,86 @@
+.button{
+    align-content: space-evenly;
+    text-align: center;
+    color: #015668;
+    font-family: NoiriStd-Regular;
+    font-size: 20px;
+    margin: auto;
+}
+header{
+    align-content: space-evenly;
+    text-align: center;
+    color: #FFD369;
+    font-family: Odachi;
+    font-size: 20px;
+    background-image: url(landing-page.jpg);
+    background-position: cover;
+}
+#home{
+    background-image: url(landing-page.jpg);
+    background-repeat: no repeat;
+    background-origin: border-box;
+    
+}
+#Locations{
+    background-image: url(new-york-page.png), url(cloud.png);
+    background-repeat: no repeat;
+    background-position: inherit;
+    background-blend-mode: soft-light;
+    background-size: cover;
+    height: calc(110vh-80px);
+    padding-top: 20%;
+    padding-left: 10%;
+}
+#Contact Us{
+    background-image: url(contact-mountain.jpg);
+    background-position: inherit;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+p{
+    color: #FFD369;
+    font-family: Noir;
+    font-size: 20px;
+}
+.box{
+    font-family: Noir;
+    color: #FFD369;
+}
+.item1{
+    text-align: left;
+    
+}
+.item2{
+    text-align: center;
+}
+.item3{
+    text-align: right;
+}
+#Benefits{
+    padding-top: 5px 3px 10%;
+    background-color: #015668;
+}
+.vertical center{
+    margin:0;
+    position: absolute;
+    top:70%
+    right: 45%
+}
+.tab-content2 h1{
+    font-family: NoirPro-Bold, sans-serif;
+    color:#FFD369;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.tab-content3 h1{
+    color: #FFD369;
+    text-align: center;
+    font-size: 30px;
+    font-family: Odachi;
+}
+.tab-content3 h2{
+    color: #FFD668;
+    text-align: center;
+    font-size: 20px;
+    font-family: Odachi;
+}
